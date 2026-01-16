@@ -1,12 +1,8 @@
 # Impact-of-Bridge-Design-Materials-and-Climate-Exposure-on-Deterioration-and-Condition
 This project investigates how bridge design materials and climate conditions contribute to the deterioration of bridge structures. We use machine learning models to classify bridge conditions and draw insights from trends in structural design and geographic exposure.
 
-Title: Final Project – Impact of Bridge Design Materials and Climate Exposure on Deterioration and Condition
-Course: AIT-614 –003 
-Team: Team 6
-Members: Yaseen Trombati, Neha Rao, Pragnya Reddy Vanga, Kashyap Kandibanda , Bhargavi Jammi.
-Instructor: Prof. Eddy Zhang
-TA: Deepthi Pavurala
+Title: Project – Impact of Bridge Design Materials and Climate Exposure on Deterioration and Condition
+
 
 
 
@@ -58,4 +54,6 @@ The system follows this structured pipeline:
 - SMOTE is implemented via `imblearn.over_sampling.SMOTE`.
 - The notebook is fully self-contained, with each stage commented and described.
 - If datasets are not accessible, please contact the project team or course staff.
+
+<img width="1293" height="732" alt="image" src="https://github.com/user-attachments/assets/77e7c687-d471-43e4-9dac-5d8e9137c00f" />
 
